@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CHINNAPOTHULA KAVYANJALI - Resume</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        header {
+            display: flex;
+            align-items: center;
+            gap: 30px;
+            margin-bottom: 20px;
+        }
+        .profile-pic {
+            width: 120px;
+            height: 120px;
+            border-radius: 50%;
+            object-fit: cover;
+            border: 3px solid #3498db;
+        }
+        h1 {
+            color: #2c3e50;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 10px;
+            margin-top: 0;
+        }
+        /* Rest of your existing CSS... */
+    </style>
+</head>
+<body>
+    <header>
+         <div>
+            <h1>CHINNAPOTHULA KAVYANJALI</h1>
+            <div class="contact-info">
+                <p>Email: chinnapothulak@gmai.com | Phone: 9502231791</p>
+                <p>LinkedIn: linkedin.com/in/kavyanjali </p>
+            </div>
+        </div>
+    </header>
+</body>
+</html>
+        </div>
+    </header>
+
+    <section class="section">
+        <h2>Career objective</h2>
+        <p>To apply my skills and experience to contribute effectively to a company's success, while continually learning and growing professionally to achieve both personal and organizational goals.
+     <!DOCTYPE html>
+<html>
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+<body>
+<h2>Education</h2>
+<table style="width:100%">
+  <tr>
+    <th>Degree</th>
+    <th>School</th>
+    <th>Date</th>
+    <th>Percentage</th>
+  </tr>
+  <tr>
+    <td>B.TECH</td>
+    <td>Prasad V Potluri Siddhartha Institute of Technology</td>
+    <td>2022-2026</td>
+    <td>7.2</td>
+  </tr>
+   <tr>
+    <td>Intermediate</td>
+    <td>Sri chaitanya junior college</td>
+    <td>2020- 2022</td>
+     <td>60%</td>
+  </tr>
+  <tr>
+    <td>SSC</td>
+    <td>Netaji Bala Vidyalayam</td>
+    <td>2020</td>
+    <td>98%</td>
+  </tr>
+</table>
+        </div>
+    </section>
+    <section class="section">
+        <h2>Technical Skills</h2>
+        <ul>
+            <li><strong>Programming Languages:</strong> Java, Python, c </li>
+                 <li><strong>Core Languages:</strong> VLSI,MAtlab </li>
+        </ul>
+         </div>
+    </section>
+    <section class="section">
+        <h2>Internship</h2>
+        <div class="Internship">
+            <div class="Internship-title"><strong>BIST TECHNOLOGIES</strong> </div>
+            <ul>
+                <li> Worked as in intern in BIST TECHNOLOGIES pvt.ltd in detection with hands-on simulations and circuit validation </li>
+                     </ul>
+                     <li> Learned concepts of VLSI DESIGN</li>
+                    </ul>
+ <section class="section">
+        <h2>Projects</h2>
+        <div class="project">
+            <div class="project-title"><strong>Community Service Project</strong> </div>
+            <ul>
+                <li> Conducted a A health communication project raises awareness about hygiene disease prevention
+                and healthy living through camps workshops and digital campaigns. </li>
+                     </ul>
+             <section class="section">
+        <h2>Certifications</h2>
+        <ul>
+            <li>Certificate for the Completion of Java training by spoken tutorial project at IIT bombay , Percentage-93% </li>
+            <li>Certified for the completion of Java traning from BYTS</li>
+            <li>Internet of Things Foundation Certificate from Infosys Springboard </li>
+            <li>Certificate for the Completion of Python training by spoken tutorial project at IIT bombay , Percentage- 72% </li>
+            <li>Certificate for the Completion of Java training by spoken tutorial project at IIT bombay , Percentage- 85% </li>
+            <li>Google Cloud Computing Foundations Certificate from Google Cloud </li>
+            <li>Certified for PCB Design APSSDC</li>
+        </ul>
+        <section class="section">
+        <h2>EXTRA CURRICULAR ACTIVITIES</h2>
+        <ul>
+            <li>Participation in quiz</li>
+            <li>Participation in Essay Writing</li>
+            </ul>
+    </section>
+</body>
+</html>
